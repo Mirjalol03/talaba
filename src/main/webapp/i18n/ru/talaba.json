@@ -1,0 +1,28 @@
+{
+  "talabaApp": {
+    "talaba": {
+      "home": {
+        "title": "Talabas",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Talaba",
+        "createOrEditLabel": "Создать или отредактировать Talaba",
+        "notFound": "Talabas не найдено"
+      },
+      "created": "Новый Talaba создан с идентификатором {{ param }}",
+      "updated": "Talaba обновлен с идентификатором {{ param }}",
+      "deleted": "Talaba удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Talaba {{ id }}?"
+      },
+      "detail": {
+        "title": "Talaba"
+      },
+      "id": "ID",
+      "ism": "Ism",
+      "familiya": "Familiya",
+      "sharif": "Sharif",
+      "tugilganKun": "Tugilgan Kun",
+      "guruh": "Guruh"
+    }
+  }
+}

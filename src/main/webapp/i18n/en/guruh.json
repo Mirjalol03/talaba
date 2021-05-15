@@ -1,0 +1,26 @@
+{
+  "talabaApp": {
+    "guruh": {
+      "home": {
+        "title": "Guruhs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Guruh",
+        "createOrEditLabel": "Create or edit a Guruh",
+        "notFound": "No Guruhs found"
+      },
+      "created": "A new Guruh is created with identifier {{ param }}",
+      "updated": "A Guruh is updated with identifier {{ param }}",
+      "deleted": "A Guruh is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Guruh {{ id }}?"
+      },
+      "detail": {
+        "title": "Guruh"
+      },
+      "id": "ID",
+      "nom": "Nom",
+      "yil": "Yil",
+      "yunalish": "Yunalish"
+    }
+  }
+}
