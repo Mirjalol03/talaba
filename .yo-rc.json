@@ -42,7 +42,9 @@
     "jwtSecretKey": "YzdhNjhmNGMxNmRjMDFkZGUyNWFhOWJmZTRiZmY5OTk3MzVlYWExNDNmZWIzNmMxNTk0NzBlZjEyMmU0MGQwYmI5NDcyMGUxOTkwZGQ2ODU2OTcyYWUyN2JiMGE1MWIxNmQ5OGMzOTM1ODdiOGVhYzE1YjM3ZWJjZGEwNTQ2NmU=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Talaba", "Guruh", "Yunalish"],
+    "lastLiquibaseTimestamp": 1621091443000
   },
   "git-provider": "GitHub",
   "git-company": "Mirjalol03",

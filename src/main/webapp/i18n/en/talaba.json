@@ -1,0 +1,28 @@
+{
+  "talabaApp": {
+    "talaba": {
+      "home": {
+        "title": "Talabas",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Talaba",
+        "createOrEditLabel": "Create or edit a Talaba",
+        "notFound": "No Talabas found"
+      },
+      "created": "A new Talaba is created with identifier {{ param }}",
+      "updated": "A Talaba is updated with identifier {{ param }}",
+      "deleted": "A Talaba is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Talaba {{ id }}?"
+      },
+      "detail": {
+        "title": "Talaba"
+      },
+      "id": "ID",
+      "ism": "Ism",
+      "familiya": "Familiya",
+      "sharif": "Sharif",
+      "tugilganKun": "Tugilgan Kun",
+      "guruh": "Guruh"
+    }
+  }
+}

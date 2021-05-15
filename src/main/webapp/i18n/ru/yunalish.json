@@ -1,0 +1,25 @@
+{
+  "talabaApp": {
+    "yunalish": {
+      "home": {
+        "title": "Yunalishes",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Yunalish",
+        "createOrEditLabel": "Создать или отредактировать Yunalish",
+        "notFound": "Yunalishes не найдено"
+      },
+      "created": "Новый Yunalish создан с идентификатором {{ param }}",
+      "updated": "Yunalish обновлен с идентификатором {{ param }}",
+      "deleted": "Yunalish удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Yunalish {{ id }}?"
+      },
+      "detail": {
+        "title": "Yunalish"
+      },
+      "id": "ID",
+      "nom": "Nom",
+      "kod": "Kod"
+    }
+  }
+}
